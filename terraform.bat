@@ -1,2 +1,1 @@
-@ECHO OFF
-terraform init
+terraform --version
